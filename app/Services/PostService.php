@@ -114,13 +114,4 @@ class PostService
             ], 500);
         }
     }
-
-    public function resetUpvotes()
-    {
-
-        $post = $this->postRepository->getAll();
-        $post->upvotes = 0;
-        $post->save();
-        return $post;
-    }
 }
