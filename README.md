@@ -14,7 +14,7 @@ NOTE: Please Make sure your Docker is up and running before you run this project
 
 Postman Collection Link: https://www.getpostman.com/collections/9be475d77d4a58421586
 
-Deployment Link:http://s.jobogmegaclean.com/api
+Deployment Link: http://s.jobogmegaclean.com/api
 
 ***
 Cheers
